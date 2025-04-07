@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/bonovoxly/extractcookieregex/workflows/Main/badge.svg?branch=master)](https://github.com/bonovoxly/extractcookieregex/actions)
 
-**Shoutout to <https://github.com/v-electrolux/extractcookieregex> for the original code...*
+**Shoutout to <https://github.com/v-electrolux/extractcookie> for the original code...*
 
 
 Takes specified cookie value (from Cookie header)
